@@ -1,0 +1,27 @@
+{
+  "webots": "R2025a",
+  "duration": 48,
+  "seed": 0,
+  "config": {
+    "dt": 0.032,
+    "desired_distance": 1.5,
+    "wheel_radius": 0.08,
+    "axle_length": 0.36,
+    "max_wheel_speed": 14.0,
+    "max_v": 0.9,
+    "max_w": 1.8,
+    "max_accel": 0.8,
+    "max_alpha": 3.0,
+    "stop_distance": 0.65,
+    "stale_timeout": 0.32
+  },
+  "runs": 36,
+  "sensing": "Simulated range/bearing with known robot localization. Ground truth used only to generate sensor returns and score results.",
+  "sha256": {
+    "src\\control.py": "eed63c15b299969fd1b03dd9b7b3b7d72823656aac987c891408f1117c687b65",
+    "src\\tracking.py": "e5942eb0a8539df878f41ddd38b2b961dc57cd5ea4f3de6eaf9d4ddf6eca6d8b",
+    "src\\simulation.py": "1f52d96c157490bbdbfdd15afa15f18e661808fe8b354344de1e41fbab2c0dbc",
+    "models\\neuro_fuzzy.json": "8d8c1c488722ded65582a0b52b8fe5d99bef4408101300934de54776d83650c9",
+    "controllers\\human_follower\\human_follower.py": "bcb8489b81ba8b9b2efc700c9013b0683fc79a1821f7fd8bc150293f091af424"
+  }
+}

@@ -1,0 +1,7 @@
+INFO: walking_human: Starting controller: python.exe -u walking_human.py straight
+INFO: human_follower: Starting controller: python.exe -u human_follower.py fuzzy straight 48
+FYP V2 fuzzy: supervisor-position sensing; scenario straight; 48.0s
+INFO: walking_human: Terminating.
+INFO: human_follower: Terminating.
+Saved Webots physics log: C:\Users\User\Documents\ChatGPT\fyp\fyp_v2\results\webots\straight_fuzzy.csv
+

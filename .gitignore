@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+worlds/.*.wbproj
+results/*_0.csv
+results/*_1.csv
+results/*_2.csv
+results/*_3.csv
+results/*_4.csv
+
+# Local credentials and installed tools
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+tools/

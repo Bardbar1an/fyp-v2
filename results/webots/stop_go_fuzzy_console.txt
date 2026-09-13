@@ -1,0 +1,7 @@
+INFO: walking_human: Starting controller: python.exe -u walking_human.py stop_go
+INFO: human_follower: Starting controller: python.exe -u human_follower.py fuzzy stop_go 48
+FYP V2 fuzzy: supervisor-position sensing; scenario stop_go; 48.0s
+INFO: walking_human: Terminating.
+INFO: human_follower: Terminating.
+Saved Webots physics log: C:\Users\User\Documents\ChatGPT\fyp\fyp_v2\results\webots\stop_go_fuzzy.csv
+

@@ -1,0 +1,13 @@
+{
+  "distance_rmse_m": 0.026449016994449064,
+  "distance_mae_m": 0.009785821562966755,
+  "max_abs_error_m": 0.17121687476482061,
+  "bearing_rmse_rad": 2.6340603310926895e-07,
+  "minimum_distance_m": 1.4703789231580493,
+  "within_025m_fraction": 1.0,
+  "close_duration_s": 0.0,
+  "stale_duration_s": 0.0,
+  "command_acceleration_rms": 0.09063189505478675,
+  "command_angular_acceleration_rms": 1.840195199635124e-06,
+  "command_effort_proxy": 9.792901295000682
+}
